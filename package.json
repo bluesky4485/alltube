@@ -4,6 +4,9 @@
   "version": "2.0.5",
   "author": "Pierre Rudloff",
   "bugs": "https://github.com/Rudloff/alltube/issues",
+  "engines": {
+    "node": "12.13.0"
+  },
   "dependencies": {
     "grunt": "~1.0.1",
     "grunt-contrib-cssmin": "~2.2.1",
